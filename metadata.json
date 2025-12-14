@@ -1,0 +1,5 @@
+{
+  "name": "Advanced 3D Projectile Lab",
+  "description": "A high-fidelity 3D projectile motion simulator with realistic physics (drag, wind, Magnus effect), multiple launch modes, and AI-powered flight analysis.",
+  "requestFramePermissions": []
+}
